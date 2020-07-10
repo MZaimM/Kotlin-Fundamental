@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2d5234e-6135-4a03-a2b2-976c34f4b24e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Break/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Break/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Continue/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Continue/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Labels/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Labels/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/All of Enum Object/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/All of Enum Object/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Anonymous Class in Enumeration/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Anonymous Class in Enumeration/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enum Object Value/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enum Object Value/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enum Position/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enum Position/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enumeration/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enumeration/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enumeration with When Expression/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enumeration with When Expression/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/enumValues/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/enumValues/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/valueOf/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/valueOf/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Expression and Statement/Expression/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Expression and Statement/Expression/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Expression and Statement/Statement/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Expression and Statement/Statement/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Latihan/Latihan/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Latihan/Latihan/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop Index/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop Index/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop with Range/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop with Range/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop with Step Extension/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop with Step Extension/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/ForEach/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/ForEach/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/ForEachIndexed/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/ForEachIndexed/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range ForEach/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range ForEach/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range with `!in` Operator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range with `!in` Operator/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range with `in` Operator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range with `in` Operator/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/Multiple statement in Condition block/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/Multiple statement in Condition block/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When as a Expression/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When as a Expression/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When subject/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When subject/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with `is` operator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with `is` operator/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with Else block/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with Else block/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with Range as a Condition/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with Range as a Condition/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/Do While/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/Do While/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/Infinite While/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/Infinite While/build/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/While/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/While/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Channels/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Channels/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.Default/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.Default/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.IO/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.IO/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Single Thread Context/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Single Thread Context/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Thread Pool/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Thread Pool/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 4/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 4/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 5/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 5/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/latihan/Latihan/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/latihan/Latihan/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Collections/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Collections/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Maps/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Maps/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Sets/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Sets/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/count/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/count/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/filter and filterNot/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/filter and filterNot/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/find/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/find/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/first/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/first/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/map/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/map/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sorted/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sorted/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sum/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sum/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Comparing data class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Comparing data class/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Copying data class objects/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Copying data class objects/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Create variables based on data class objects/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Create variables based on data class objects/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Data Class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Data Class/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Destructuring Declarations/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Destructuring Declarations/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Different data class with class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Different data class with class/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Modify the data class object/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Modify the data class object/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization/build/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Distinct/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Distinct/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Drop/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Drop/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Fold/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Fold/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Slice/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Slice/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Take/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Take/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 4/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 4/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Inside Function/Inner function/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Inside Function/Inner function/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 4/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 4/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 5/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 5/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Latihan/Latihan/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Latihan/Latihan/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/also/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/also/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/apply/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/apply/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/let/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/let/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/run/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/run/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/with/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/with/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Member References/Function References/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Member References/Function References/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Member References/Property References/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Member References/Property References/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 4/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 4/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Recursion/Recursion Initilization/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Recursion/Recursion Initilization/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Recursion/Tail Recursion/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Recursion/Tail Recursion/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/also/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/also/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/let/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/let/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/apply/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/apply/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/run/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/run/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/with/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/with/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Generics/Latihan/Latihan/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Generics/Latihan/Latihan/build/" />
+    <ignored path="$PROJECT_DIR$/Generics/Variance/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Generics/Variance/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Conjuction/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Conjuction/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Disjunction/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Disjunction/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Negation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Negation/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Array Initialization/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Array Initialization/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Char in String/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Char in String/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Character/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Character/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Escaped String/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Escaped String/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Raw String/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Raw String/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/String/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/String/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Unicode String/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Unicode String/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Update Array/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Update Array/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Function/Function Initilization/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Function/Function Initilization/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If as a Expression/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If as a Expression/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If Else/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If Else/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If Else If/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If Else If/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Nullable Types/Nullable Types/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Nullable Types/Nullable Types/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number Initilization/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number Initilization/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number operation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number operation/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number with max and min values/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number with max and min values/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/String to Number/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/String to Number/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/build/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/String Template/String Template/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/String Template/String Template/build/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Abstract Class/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Abstract Class/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Classes/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Classes/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 4/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 4/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Extension Properties/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Extension Properties/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 3/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Inheritances/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Inheritances/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Interfaces/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Interfaces/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Object Everywhere/Contoh 1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Object Everywhere/Contoh 1/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Object Everywhere/Contoh 2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Object Everywhere/Contoh 2/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Overloading/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Overloading/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Properties/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Properties/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Property Delegation/Contoh/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Property Delegation/Contoh/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/internal/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/internal/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/private/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/private/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/protected/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/protected/build/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/public/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/public/build/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="425">
+                  <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="23" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Memulai Pemrograman dengan Kotlin8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Memulai Pemrograman dengan Kotlin8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Object-Oriented" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Memulai Pemrograman dengan Kotlin8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Object-Oriented" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Memulai Pemrograman dengan Kotlin8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Object-Oriented" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Memulai Pemrograman dengan Kotlin8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Object-Oriented" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Memulai Pemrograman dengan Kotlin8" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d5234e-6135-4a03-a2b2-976c34f4b24e" name="Default Changelist" comment="" />
+      <created>1588594659997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588594659997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Task" visible="true" weight="0.32955465" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="425">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="23" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
